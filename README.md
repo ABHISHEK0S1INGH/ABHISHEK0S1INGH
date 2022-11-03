@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABHISHEK0S1INGH
 
-- 🌱 I’m currently learning C language...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 My LinkedIn https://www.linkedin.com/in/abhishek-singh-905547219
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me abhi620548@gmail.com...
 
 <!---
