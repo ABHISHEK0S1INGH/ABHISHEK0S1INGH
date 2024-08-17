@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABHISHEK0S1INGH
 
 - 🌱 My LinkedIn https://www.linkedin.com/in/abhishek-singh-905547219
-- 💞️ I’m looking to collaborate on flutter devlopment.
+- 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me abhi620548@gmail.com
 - 💻 Pursuing my B.Tech in Information Technology Form REC Bijnor
 <!---
