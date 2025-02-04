@@ -2,11 +2,11 @@
 
 ## Passionate about AI and Data Analytics
 
-- 🔭 I’m currently pursing a Masters degree in AI
+- 🔭 I’m currently pursing a B.Tech degree in Information Technology
 - 🌱 I’m currently learning SQL and Deep Learning
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: misbahullahsheriff@gmail.com
+- 📫 How to reach me: abhi620548@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been told I dance well 🤭
 
@@ -15,9 +15,9 @@
 ## Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-misbahullah-sheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-misbahullah-sheriff" height="30" width="40" /></a>
-<a href="https://instagram.com/misbah__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misbah__official" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/misbahullahsher1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="misbahullahsher1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek0s1ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-misbahullah-sheriff" height="30" width="40" /></a>
+<a href="https://instagram.com/_rajputabhisheksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misbah__official" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/recb_0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="misbahullahsher1" height="30" width="40" /></a>
 </p>
 
 ## Skills:
