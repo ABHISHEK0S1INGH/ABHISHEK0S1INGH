@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-- **Programming**: Python | SQL | Blue Prism
+- **Programming**: Python | SQL | C++
 - **Database**: MySQL 
 - **Technologies**: Machine Learning | Deep Learning | GenAI
 - **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
