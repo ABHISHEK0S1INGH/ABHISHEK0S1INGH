@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhishek0s1ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-misbahullah-sheriff" height="30" width="40" /></a>
 <a href="https://instagram.com/_rajputabhisheksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misbah__official" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/recb_0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="misbahullahsher1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/recb_0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="abhishek0s1ingh" height="30" width="40" /></a>
 </p>
 
 ## Skills:
@@ -32,13 +32,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 </p>
 
 - **Programming**: Python | SQL | Blue Prism
-- **Database**: MySQL | MongoDB
-- **Technologies**: Machine Learning | Deep Learning | RPA
+- **Database**: MySQL 
+- **Technologies**: Machine Learning | Deep Learning | GenAI
 - **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
 - **Version Control**: GIT | GitHub
-- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Optuna
+- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Pytorch
 - **Visualization**: Matplotlib | Seaborn
-- **Data Analysis**: Pandas | Numpy | Scipy
+- **Data Analysis**: Pandas | Numpy 
 - **Development**: Streamlit | FastAPI | Flask
 
 ## GitHub Stats:
