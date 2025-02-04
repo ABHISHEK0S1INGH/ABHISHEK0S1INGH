@@ -41,6 +41,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Data Analysis**: Pandas | Numpy 
 - **Development**: Streamlit | FastAPI | Flask
 
-## GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MisbahullahSheriff&theme=gotham&hide_border=false)<br/>
