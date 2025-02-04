@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhishek0s1ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-misbahullah-sheriff" height="30" width="40" /></a>
 <a href="https://instagram.com/_rajputabhisheksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misbah__official" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/recb_0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="abhishek0s1ingh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/recb_0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Codechef" height="30" width="40" /></a>
 </p>
 
 ## Skills:
