@@ -42,6 +42,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Development**: Streamlit | FastAPI | Flask
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MisbahullahSheriff&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahullahSheriff&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MisbahullahSheriff&theme=gotham&hide_border=false)<br/>
