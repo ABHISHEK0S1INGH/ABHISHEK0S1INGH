@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Technologies**: Machine Learning | Deep Learning | GenAI
 - **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
 - **Version Control**: GIT | GitHub
-- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Pytorch
+- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Pytorch | langchain |
 - **Visualization**: Matplotlib | Seaborn
 - **Data Analysis**: Pandas | Numpy 
 - **Development**: Streamlit | FastAPI | Flask
